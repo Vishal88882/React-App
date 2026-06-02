@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(249, 255, 236);
+    
+}
+div h1{
+    color:rgb(8, 12, 63);
+    text-align: center;
+    padding:10px;
+    background:linear-gradient(to right, rgb(231, 231, 240) , rgb(225, 240, 225));
+   border-radius: 50px;
+    height:40px;
+    
+}
